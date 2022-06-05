@@ -1,2 +1,2 @@
 # This is my python programme.
-## learn git
+## git is free sotfware.
